@@ -1,9 +1,7 @@
 # FP-Markdown
----
 
 ### Marian Matsuk
   `2211899` 
-
 ## Linguagens de programação conhecidas:
 - C
 - Javascript
